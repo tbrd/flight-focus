@@ -1,10 +1,9 @@
 {
-  "name": "flight-hogan",
-  "description": "Hogan template manager for Flight",
-  "version": "2.0.0",
+  "name": "flight-focus",
+  "description": "Focus manager for Flight",
+  "version": "0.0.1",
   "dependencies": {
-    "flight": "~1.1",
-    "hogan": "~3.0.0"
+    "flight": "~1.1"
   },
   "devDependencies": {
     "jasmine-flight": "*",
