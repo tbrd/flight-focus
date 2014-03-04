@@ -1,0 +1,23 @@
+{
+  "name": "flight-hogan",
+  "description": "Hogan template manager for Flight",
+  "version": "2.0.0",
+  "dependencies": {
+    "flight": "~1.1",
+    "hogan": "~3.0.0"
+  },
+  "devDependencies": {
+    "jasmine-flight": "*",
+    "jasmine-jquery": "*"
+  },
+  "ignore": [
+    ".gitignore",
+    ".gitattributes",
+    ".travis.yml",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "test",
+    "package.json",
+    "karma.conf.js"
+  ]
+}
